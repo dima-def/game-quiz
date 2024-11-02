@@ -1,0 +1,34 @@
+figure {
+    border: 1px  #245488;
+    padding: 50px;
+    text-align: center;
+}
+
+figcaption {
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    text-align: center;
+}
+
+.img_language {
+    display: flex;
+    float: right;
+}
+
+
+.header {
+    width: 14%;
+}
+
+.page {
+    width: 82%;
+}
+
+.head {
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+}
